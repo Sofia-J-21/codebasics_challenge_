@@ -1,6 +1,6 @@
 # codebasics_challenge_
-Sales insights data analysis project 
-Data Analysis Using SQL
+## Sales insights data analysis project 
+## Data Analysis Using SQL
 
 1. Show all customer records
 
@@ -46,3 +46,12 @@ Data Analysis Using Power BI
 1. Formula to create norm_amount column
 
 `= Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" or [currency] ="USD#(cr)" then [sales_amount]*75 else [sales_amount], type any)`
+
+## Power BI Dashboard
+<img width="1076" height="665" alt="Screenshot 2025-08-07 135503" src="https://github.com/user-attachments/assets/7e5c2fdc-21fc-4152-ade2-81fbc1660863" />
+
+
+
+
+
+
