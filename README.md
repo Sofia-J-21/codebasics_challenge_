@@ -1,6 +1,43 @@
 # codebasics_challenge_
 ## Sales insights data analysis project 
-## Data Analysis Using SQL
+
+## PROJECT OBJECTIVE
+The objective of this project is to analyze sales performance across various markets and customers using SQL for data extraction and Power BI for data visualization. The analysis helps in identifying revenue trends, top-performing regions, products, and customers to support strategic business decisions.
+
+##  Project Insights
+Delhi NCR generated the highest revenue of ₹519.51M and contributed the most to sales quantity (1M units).
+
+Total Revenue achieved across all markets: ₹984.81M, with 2M units sold overall.
+
+The top customer, Electricalsara Stores, contributed ₹413.33M in revenue.
+
+A product listed as (Blank) generated the highest product revenue of ₹468.96M, suggesting potential data quality issues.
+
+Revenue trends show a declining pattern post mid-2019, with noticeable peaks in early 2018 and 2019.
+
+Chennai contributed ₹18.04M in revenue but recorded 0 units sold, indicating possible data entry or sales tracking issues.
+
+
+## Business Questions Answered
+1. Which markets generated the highest revenue and sales quantity?
+
+2. Who are the top 5 customers in terms of revenue?
+
+3. What are the top-selling products?
+
+4. How has revenue trended over time?
+
+5. What is the revenue contribution of Chennai and other specific markets?
+
+6. What is the total revenue in 2020 overall, in January, and specifically in Chennai?
+
+7. How many unique product codes were sold in Chennai?
+
+8. What proportion of transactions were conducted in USD vs INR?
+
+
+
+## Data Analysis Using SQL 
 
 1. Show all customer records
 
@@ -49,6 +86,11 @@ Data Analysis Using Power BI
 
 ## Power BI Dashboard
 <img width="1076" height="665" alt="Screenshot 2025-08-07 135503" src="https://github.com/user-attachments/assets/7e5c2fdc-21fc-4152-ade2-81fbc1660863" />
+
+
+## Conclusion
+The sales data analysis reveals that a few markets and customers dominate revenue generation, particularly Delhi NCR and Electricalsara Stores. While the overall revenue is high, the downward trend in sales over time is a concern. Data quality issues, such as missing product names and zero sales quantities in some regions, should be addressed for better insights. This project demonstrates how SQL and Power BI can be effectively combined for end-to-end business analysis.
+
 
 
 
