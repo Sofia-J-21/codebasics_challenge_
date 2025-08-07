@@ -1,5 +1,5 @@
 # codebasics_challenge_
-## Sales insights data analysis project 
+## ATLIQ HARDWARE SALES DATA ANALYTICS PROJECT
 
 ## PROJECT OBJECTIVE
 The objective of this project is to analyze sales performance across various markets and customers using SQL for data extraction and Power BI for data visualization. The analysis helps in identifying revenue trends, top-performing regions, products, and customers to support strategic business decisions.
